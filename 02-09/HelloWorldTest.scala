@@ -3,11 +3,11 @@ import junit.framework.Assert._
 
 class HelloWorld {
   def greeting(): String = {
-    sys.error("greeting")
+    "Hello World"
   }
 
   def greeting(message: String): String = {
-    sys.error("greeting(String)")
+    "Hello " + message
   }
 }
 

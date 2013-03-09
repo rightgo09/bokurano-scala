@@ -1,0 +1,3 @@
+def oneHundred() = {
+  100
+}

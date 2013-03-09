@@ -1,0 +1,1 @@
+def oneHundred = 100
